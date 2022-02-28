@@ -1,0 +1,19 @@
+{
+  "name": "challengewk14",
+  "version": "1.0.0",
+  "description": "A tech-blog using Model-View-Controller.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffGerlach24/MVC-techBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffGerlach24/MVC-techBlog/issues"
+  },
+  "homepage": "https://github.com/JeffGerlach24/MVC-techBlog#readme"
+}
