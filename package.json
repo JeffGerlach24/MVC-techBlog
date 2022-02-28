@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JeffGerlach24/MVC-techBlog/issues"
   },
-  "homepage": "https://github.com/JeffGerlach24/MVC-techBlog#readme"
+  "homepage": "https://github.com/JeffGerlach24/MVC-techBlog#readme",
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  }
 }
