@@ -4,23 +4,23 @@ html {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: #FDBA21;
 }
 
 main,
 .site-name {
-    background-color: #b8cba2;
+    background-color: #00235E;
 }
 
 a,
 .btn-no-style,
 #comment-subtitle {
-    color: #b8cba2;
+    color: #00235E;
 }
 
 a:hover,
 .btn-no-style:hover {
-    color: #e2edd5;
+    color: #618ABB;
 }
 
 a {
@@ -33,7 +33,7 @@ button {
     background-color: #225ca3;
     border: 0;
     padding: 1%;
-    color: white;
+    color: #B9D1EA;
     font-weight: bold;
     transition: background-color .1s;
     cursor: pointer;
@@ -41,7 +41,7 @@ button {
 }
 
 button:hover {
-    background-color: #3486eb;
+    background-color: whitesmoke;
 }
 
 .post-list {
@@ -51,20 +51,20 @@ button:hover {
 }
 
 .go-back {
-    color: #2c2307;
+    color: #FDBA21;
 }
 
 textarea,
 input {
     padding: .5%;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
 }
 
 textarea:focus,
 input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid whitesmoke;
 }
 
 textarea {
@@ -99,7 +99,7 @@ header,
 .site-row,
 .info-section,
 .form-heading {
-    background-color: #2c2307;
+    background-color: #FDBA21;
 }
 
 .login-page,
@@ -140,7 +140,7 @@ header h1 {
 
 .site-row {
     display: flex;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid black;
     justify-content: center;
 }
 
@@ -172,11 +172,11 @@ main {
 }
 
 .delete-post-btn {
-    background-color: #d41414;
+    background-color: red;
 }
 
 .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: lightsalmon;
 }
 
 .post {
@@ -194,7 +194,7 @@ main {
 .edit-link {
     display: block;
     margin: -1.5% 0 2% 0;
-    color: #2c2307;
+    color: #FDBA21;
 }
 
 .comment-form {
@@ -207,7 +207,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #00235E;
 }
 
 .comment .meta {
@@ -240,12 +240,12 @@ main {
 
 .sign-in-link,
 .login-link {
-    color: #2c2307;
+    color: #FDBA21;
 }
 
 .form-heading h1,
 .form-heading h2 {
-    color: #b8cba2;
+    color: #225ca3;
 }
 
 .login-form,
